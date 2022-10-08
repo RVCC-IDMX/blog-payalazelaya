@@ -10,6 +10,23 @@ image: /assets/blog/amy-baugess-cat-unsplash.jpg
 imageAlt: "2 kittens, one dark gray and one light gray colored, sitting in a
   dark red basket with a sky-like background in the back. "
 ---
+Header Section for the Bob Ross Lorem Ipsum Text
+```html 
+<header class="hero">
+  <h1>Bob Ross Lorem Ipsum Text</h1>
+  <h2>The most iconic painter to exist</h2>
+</header>
+```
+
+```css
+.hero {
+  background: hsl(157, 100%, 88%);
+  font-size: 52px;
+  border: 2px solid darkgreen;
+  padding: 0px 2px;
+  width: 220px;
+}
+```
 Now let's put some happy little clouds in here. Give him a friend, we forget the trees get lonely too. And just raise cain. If you don't like it - change it. It's your world. Don't fiddle with it all day.
 
 This is unplanned it really just happens. Let all these little things happen. Don't fight them. Learn to use them. We'll put a happy little sky in here. You can create beautiful things - but you have to see them in your mind first.
