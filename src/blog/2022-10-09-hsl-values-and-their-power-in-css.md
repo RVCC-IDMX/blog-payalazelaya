@@ -13,7 +13,7 @@ imageAlt: A color gradient of various colors on the color wheel that spans from
 ---
 F﻿or a web developer who is starting out in web development, they tend to use RGB values for elements such as background colors, borders, etc. It is common for beginners to use RGB values as they are very simple to play around with and it is the standard way of how to remember colors as well.  CSS RGB values allows the developer to refine colors through exact shades or tones as each part of the R, G, or B in RGB affect how light or dark a color is. 
 
-U﻿sing RGB values make colors have shades or tones to them, but it can be a hassle when a developer wants to have colors of higher or lower saturation, a specific hue, or wants to change the lightness of it. This is why web developers are starting to use CSS HSL values when it comes to elements using colors because of how there's more complexity to it. 
+U﻿sing RGB values make colors have shades or tones to them, but it can be a hassle when a developer wants to have colors of higher or lower saturation, a specific hue, or wants to change the lightness of it. This is why web developers are starting to use CSS HSL values when it comes to elements using colors because of how there is more complexity to it. 
 
 Web developers such as Kevin Powell, who is more prominent on Youtube, mention the fact that with using CSS HSL values, it is easier to change values through the color picker integrated within a software such as VSCode. When the color picker is set to HSL values, the color picker will rely on what degree a color is on the color wheel for hue, how saturated a color is, and how bright or dull a color is. 
 
