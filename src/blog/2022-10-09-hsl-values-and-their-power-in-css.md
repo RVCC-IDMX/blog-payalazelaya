@@ -39,7 +39,7 @@ HSL starts to become reliable when it comes to creating color schemes to a desig
 
 #### E﻿xample of HSL Color Scheme
 
-![HSL Color Scheme]("Users/payalazelaya/Pictures/Saved Pictures/hsl-color-scheme.png)
+![HSL Color Scheme](/assets/blog/hsl-color-scheme.png "Color Scheme")
 
 I﻿n terms of how a person perceives color, it is true how hard it is to predict a color through RGB values as it is harder to create variations of a certain color. HSL values on the other hand represent the attributes a person can actually perceive as it's more keen to the human eye, thus why HSL has an advantage over RGB. 
 
