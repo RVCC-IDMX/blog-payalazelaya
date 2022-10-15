@@ -1,6 +1,6 @@
 ---
 title: Welcome to my first blog!
-author: "By Paola Ayala Zelaya "
+author: "Paola Ayala Zelaya "
 description: "First Blog of the Website "
 date: 2022-09-25T16:21:26.474Z
 tags:
