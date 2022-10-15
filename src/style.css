@@ -194,7 +194,7 @@ section,
   /////////////////////// */
 
 .page-header {
-  padding: 2em 0;
+  padding: 1em 0;
 }
 
 .page-header__content {
@@ -243,9 +243,9 @@ header,
 
 .site-footer {
   --logo-color: currentColor;
-  padding: 2em 0;
+  padding: 1em 0;
   color: var(--clr-neutral-100);
-  background-color: var(--clr-primary-500);
+  background-color: var(--clr-primary-400);
   text-align: center;
 }
 
