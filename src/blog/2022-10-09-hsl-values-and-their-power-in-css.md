@@ -1,6 +1,6 @@
 ---
 title: HSL Values and their power in CSS
-author: "By Paola Ayala Zelaya "
+author: "Paola Ayala Zelaya "
 description: A blog that gives an overview of how using HSL values for color in
   CSS can be better than using RGB.
 date: 2022-10-09T18:58:22.247Z
