@@ -13,7 +13,7 @@ imageAlt: "3 shapes that demonstrate how CSS animations happen within different
 ---
 Woah! The button rotates left and right when it hovers, how cool is that! 
 
-#﻿# Animtions 
+#﻿# Animations
 
 Animations are CSS effects that can be added to an element of a developers choosing when it comes to wanting the site to be more interactive for the user. These animations can emphasize important aspects of what the user should focus on when they visit the site for a particular thing. Animations are brought together using two components: when there’s a style describing the animation and keyframes pinpointing the start and end states of the animation’s style. Animations through CSS have advantages over other ways on how to create animations when they don’t require knowing Javascript, are able to run properly under system loads and have the browser control the sequence in order to optimize performance and efficiency on its end. In the end, animations range from being simple all the way to being very complex. 
 
@@ -86,21 +86,19 @@ The prefer-reduced-motion media feature is used when a user requested the system
 
 This code is from an assignment that I worked on called Mesmerizing where the animation shown on the live server was that of a circle going in a loop and transforming itself to illustrate different designs of it. The speed of the circle animation is going at 10 seconds, whereas in these 10 seconds it’s going super fast and it even blurred my version when focusing on it because of how fast it goes in a short amount of time. A media query is used for prefers-reduced-motion to address the media state where the root of the animation will loop for 70 seconds in that media state and the change in speed is notable when testing out the media state. The circle animation shows how it flows at a relatively good speed and there isn’t much motion included in it. This media state is very reliable for addressing accessibility for a user who of course, prefers reduced motion for an animation sequence that’s notably going super fast.
 
-#﻿## Codepen Embed
+#﻿# Codepen
 
 <﻿figure>
-
 <iframe height="300" style="width: 100%;" scrolling="no" title="Colorful Circle Animation " src="https://codepen.io/payalazelaya/embed/abKKKxO?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-
-
   See the Pen <a href="https://codepen.io/payalazelaya/pen/abKKKxO">
   Colorful Circle Animation </a> by Paola Ayala (<a href="https://codepen.io/payalazelaya">@payalazelaya</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 
- <﻿figcaption>
-A﻿nimated Colorful Circle (inspired by <a href="https://codepen.io/xposedbones/pen/aOrQVy">@xposedbones</a>
- </﻿figcaption>
+<﻿figcaption>
+A﻿nimated Colorful Circle (inspired by <a href="https://codepen.io/xposedbones/pen/aOrQVy">@xposedbones</a>) on <a href="https://codepen.io">Codepen</a>
+<﻿/figcaption>
 <﻿/figure>
+
 
 To promo, the Web Content Accessibility Guidelines (WCAG) provide more tactical considerations for making sure that animations seen on websites are accessible to users when needed. Different contexts affect the details of what a developer needs to do to improve accessibility, but thankfully the WCAG addresses recommendations for animated content/interactions. These guidelines consist of play/pause controls when needed, limits on blinking/flashing motions, and in fact, when to use reduced motion options for users. Accessibility is key to being a good web developer in a constantly developing setting when users of all kinds of circumstances frequently view websites on a daily basis.
