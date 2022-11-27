@@ -3,7 +3,7 @@ title: Can You Reduce Your Motion for Me?
 author: "Paola Ayala Zelaya "
 description: A blog giving an overview on the topic about animation and
   accessibility when it comes to using animations on websites
-date: 2022-11-27T18:35:46.274Z
+date: 2022-11-27T19:18:25.464Z
 tags:
   - post
   - featured
