@@ -17,7 +17,7 @@ Animations are CSS effects that can be added to an element of a developers choos
 
 To create an animation sequence for an element, it’s using the animate property or its several sub-properties for timing, duration, and other settings and then using the key-frames at-rule for getting the appearance of the animation. Examples of how to get animation sequences are shown below: 
 
-```
+```css
 p {
   animation-duration: 4s;
   animation-name: slidein;
@@ -40,7 +40,7 @@ The examples styles the "p" element so the text slides in from off the right edg
 
 How to get a text slide animation to move back and forth:
 
-```
+```css
 p {
   animation-duration: 4s;
   animation-name: slidein;
@@ -69,7 +69,7 @@ Use prefer-reduced-motion:
 
 The prefer-reduced-motion media feature is used when a user requested the system to minimize the amount of non-essential motion it uses. For an animation shown on a webpage, the user can request a slower version of it for their own consideration and look at the animation without any problems. A good example of this media feature being used would be with this code below: 
 
-```
+```css
 :root {
   --anispeed: 10s;
 }
@@ -83,7 +83,5 @@ The prefer-reduced-motion media feature is used when a user requested the system
 ```
 
 This code is from an assignment that I worked on called Mesmerizing where the animation shown on the live server was that of a circle going in a loop and transforming itself to illustrate different designs of it. The speed of the circle animation is going at 10 seconds, whereas in these 10 seconds it’s going super fast and it even blurred my version when focusing on it because of how fast it goes in a short amount of time. A media query is used for prefers-reduced-motion to address the media state where the root of the animation will loop for 70 seconds in that media state and the change in speed is notable when testing out the media state. The circle animation shows how it flows at a relatively good speed and there isn’t much motion included in it. This media state is very reliable for addressing accessibility for a user who of course, prefers reduced motion for an animation sequence that’s notably going super fast.
- 
-
 
 In general, the Web Content Accessibility Guidelines (WCAG) provide more tactical considerations for making sure that animations seen on websites are accessible to users when needed. Different contexts affect the details of what a developer needs to do to improve accessibility, but thankfully the WCAG addresses recommendations for animated content/interactions. These guidelines consist of play/pause controls when needed, limits on blinking/flashing motions, and in fact, when to use reduced motion options for users. Accessibility is key to being a good web developer in a constantly developing setting when users of all kinds of circumstances frequently view websites on a daily basis.
